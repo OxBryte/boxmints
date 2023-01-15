@@ -183,10 +183,10 @@
                             d: "M20 3.92393C19.2563 4.25018 18.4638 4.46643 17.6375 4.57143C18.4875 4.06393 19.1363 3.26643 19.4413 2.30518C18.6488 2.77768 17.7738 3.11143 16.8413 3.29768C16.0888 2.49643 15.0163 2.00018 13.8463 2.00018C11.5763 2.00018 9.74875 3.84268 9.74875 6.10143C9.74875 6.42643 9.77625 6.73893 9.84375 7.03643C6.435 6.87018 3.41875 5.23643 1.3925 2.74768C-0.0565001 5.35843 1.5625 7.49893 2.6525 8.22768C1.99375 8.21518 1.3475 8.02393 0.8 7.72268C0.8 9.75793 2.22125 11.4152 4.085 11.7964C3.6775 11.9317 2.78725 12.0052 2.23375 11.8614C2.765 13.4852 4.2725 14.6789 6.065 14.7177C4.67 15.8089 2.61425 16.6984 0 16.4102C1.81625 17.5814 3.96875 18.2502 6.29 18.2502C13.835 18.2502 17.96 12.0002 17.96 6.58268C17.96 6.40143 17.9538 6.22643 17.945 6.05268C18.7588 5.47518 19.4425 4.75393 20 3.92393Z"
                         })
                     }),
-                    link: "https://twitter.com/heimdao",
+                    link: "https://twitter.com/boxmints",
                     alt: "Twitter"
                 }],
-                x = "https://discord.gg/FrJc9xYpYc";
+                x = "https://discord.gg/Ar2NPdkPC8";
 
             function b(e) {
                 var t = e.list,
@@ -236,8 +236,8 @@
                                 src: k,
                                 width: "180",
                                 height: "60",
-                                alt: "Heim DAO",
-                                title: "Heim DAO"
+                                alt: "BoxMints",
+                                title: "BoxMints"
                             })
                         })
                     }), (0, a.jsx)(m(), {
@@ -857,7 +857,7 @@
                 var t = e.size,
                     n = void 0 === t ? 40 : t,
                     i = e.color,
-                    r = void 0 === i ? "#DC41A0" : i,
+                    r = void 0 === i ? "#B0692B" : i,
                     o = e.children,
                     s = e.className;
                 return (0, a.jsxs)(a.Fragment, {
@@ -914,7 +914,7 @@
                     s = (0, o.useState)(!1),
                     l = s[0],
                     c = s[1],
-                    d = l ? "#121212" : "#DC41A0",
+                    d = l ? "#121212" : "#B0692B",
                     _ = function() {
                         return c(!l)
                     },
@@ -1108,7 +1108,7 @@
                                     className: ve()["hero-box__number-text"],
                                     children: [(0, a.jsx)("span", {
                                         className: "text-semibold",
-                                        children: "1 NFT Heim DAO costs 0.1 ETH "
+                                        children: "1 NFT BoxMints costs 0.1 ETH "
                                     }), "(Max 10)"]
                                 })]
                             })
@@ -1128,7 +1128,7 @@
                             })
                         }), (0, a.jsx)(be, {
                             title: "connect wallet",
-                            description: "You need a MetaMask wallet to mint the Heim DAO",
+                            description: "You need a MetaMask wallet to mint the BoxMints",
                             tagName: "a",
                             href: "#",
                             onClick: function(e) {
@@ -1190,7 +1190,7 @@
                                     className: ve()["hero-box__number-text"],
                                     children: [(0, a.jsx)("span", {
                                         className: "text-semibold",
-                                        children: "1 NFT Heim DAO costs 0.1 ETH "
+                                        children: "1 NFT BoxMints costs 0.1 ETH "
                                     }), "(Max 10)"]
                                 })]
                             })
@@ -1272,7 +1272,7 @@
                                     className: ve()["hero-box__number-text"],
                                     children: [(0, a.jsx)("span", {
                                         className: "text-semibold",
-                                        children: "1 NFT Heim DAO costs 0.1 ETH "
+                                        children: "1 NFT BoxMints costs 0.1 ETH "
                                     }), "(Max 10)"]
                                 })]
                             })
@@ -1313,8 +1313,8 @@
                             className: ve()["hero-box__flex-end"],
                             children: (0, a.jsxs)("h2", {
                                 className: l()(["h2", "text-uppercase", ve()["hero-box__title"]]),
-                                children: ["Presale", (0, a.jsx)("span", {
-                                    className: "text-cherry",
+                                children: ["Mint", (0, a.jsx)("span", {
+                                    className: "text-cherry cherryry",
                                     children: " soon!"
                                 })]
                             })
@@ -1333,7 +1333,7 @@
                             })
                         }), (0, a.jsx)("div", {
                             className: ve().hero__desc,
-                            children: "The Keeper of Asgard will be releasing the $Heim Token token via a presale on an undisclosed date. $Heim token will be the community token of the HeimDAO and Norse Government. Presale details coming soon."
+                            children: "The BoxLabz will be releasing the BoxMints NFT on an undisclosed date. $HEADS token which will be the community token of the BoxMints. Details coming soon."
                         })]
                     })
                 })
@@ -1450,7 +1450,7 @@
                         children: [(0, a.jsx)("span", {
                             children: "this is"
                         }), (0, a.jsx)("span", {
-                            children: "$Heim DAO"
+                            children: "$BoxMints"
                         })]
                     }), (0, a.jsx)(U, {}), (0, a.jsx)(h.Z, {
                         type: "large",
@@ -1462,7 +1462,7 @@
                                     width: "870",
                                     height: "980",
                                     src: "/_next/static/media/bottom.svg",
-                                    alt: "This is $Heim DAO"
+                                    alt: "This is $BoxMints"
                                 })
                             }), "connect" === e && (0, a.jsx)(ye, {}), "buy" === e && (0, a.jsx)(je, {}), "confirm" === e && (0, a.jsx)(Ce, {}), "soon" === e && (0, a.jsx)(Ne, {
                                 date: new Date("3 September 2022 10:00:00"),
@@ -1636,7 +1636,7 @@
                             children: [(0, a.jsx)("span", {
                                 className: "text-cherry",
                                 children: "WHAT IS"
-                            }), " Heim's vision?"]
+                            }), " Box vision?"]
                         }), (0, a.jsxs)("div", {
                             className: "entry-content text-center",
                             children: [(0, a.jsxs)("p", {
@@ -1669,7 +1669,7 @@
                         }
                     }),
                     p = (0, We.romanize)(d + 1),
-                    A = h ? "rgba(18, 18, 18, .2)" : "#DC41A0",
+                    A = h ? "rgba(18, 18, 18, .2)" : "#B0692B",
                     g = l()(Pe().faq__item, (n = {}, i = Pe().faq__item_active, r = h, i in n ? Object.defineProperty(n, i, {
                         value: r,
                         enumerable: !0,
@@ -1717,35 +1717,32 @@
                 })
             }
             var Qe = [{
-                    heading: "How To Join $Heim Token Presale?",
-                    body: "The $Heim Token Presale will hold on pinksale. The pinksale link will be available on our official discord and/or twitter. However, the presale requirements will be communicated to the community as at when due."
+                    heading: "How To Get BoxHeadz NFT Whitelist?",
+                    body: "The BoxHeadz NFT Whitelist requirements will be/is released on our official discord and/or twitter. "
+                }, {
+                    heading: "What’s BoxHeadz NFT Mint Price and Date?",
+                    body: 'TBA'
+                }, {
+                    heading: "Will There Be A $HEADZ Token Presale?",
+                    body: "No, However, methods of redeeming the $HEADZ Token will available after the BoxHeadz Mint."
                 }, {
                     heading: "When Contract Address?",
-                    body: 'The contract has not been deployed. Details will be available soon.'
+                    body: "The contract has not been deployed. Details will be available soon."
                 }, {
-                    heading: "$Heim Tokenomics and HeimDall Supply?",
-                    body: "Details about the $Heim and HeimDall will be released on our offical discord and twitter"
+                    heading: "$HEADZ Tokenomics and BoxHeadz Supply?",
+                    body: 'Only 2222 BoxHeadz will exist. Details about the $HEADZ tokenomics will be released on our offical discord and twitter.'
                 }, {
-                    heading: "How To Get HeimDall NFT Whitelist?",
-                    body: "The HeimDall NFT Whitelist requirements will be released on our official discord and/or twitter. More details soon."
+                    heading: "DAO Membership?",
+                    body: "Members will only be indoctrinated into the DAO when they verify that they hold a BoxHeadz NFT."
                 }, {
-                    heading: "What\u2019s HeimDall NFT Mint Price and Date",
-                    body: 'Details about the HeimDall NFT will be released after the $Heim Token sales '
+                    heading: "BoxMints Setup?",
+                    body: "The BoxMints will be open for public use. Users will be however able to setup profiles and access but free and premium services and options."
                 }, {
-                    heading: "HeimDAO Membership?",
-                    body: "Members will only be indoctrinated into the HeimDAO when they verify that they hold a HeimDall NFT."
+                    heading: "How To Use Near?",
+                    body: "To understand how to buy and trade NFTs and Tokens on NEAR ecosystem click here."
                 }, {
                     heading: "Collaboration and Partnerships?",
-                    body: "Collaboration and Partnership requests can be made via Twitter DM or by opening a Collab Ticket on our Discord (Not a guarantee). Collaborations and Partnerships will only be honored when an official team member gives an authorization."
-                }, {
-                    heading: "HeimFunds Membership?",
-                    body: "The HeimFund is reserved for the elite of Heims called the Olympians. The Olympains of 12 Heims of different Asgard backgrounds and power intensity."
-                }, {
-                    heading: "Working With Us?",
-                    body: "For all inquiries for employment or applying to help the team. Please fill the google form provided on our official Discord."
-                }, {
-                    heading: "Team",
-                    body: "The TEAM consists of 6 Heims of different Asgard backgrounds and power intensity."
+                    body: "Collaboration and Partnership requests can be made via Twitter DM or by opening a Collab Ticket on our Discord (Not a guarantee). Collaborations and Partnerships will only be an official team member gives an authorization."
                 }],
                 Ke = {
                     src: "/_next/static/media/coffee.cb0cc1cc.png",
@@ -1945,7 +1942,7 @@
                                     children: (0, a.jsxs)("div", {
                                         children: [(0, a.jsx)("div", {
                                             className: "text-small text-center",
-                                            children: "\xa9 2022 Heim DAO."
+                                            children: "\xa9 2022 BoxMints."
                                         }), (0, a.jsx)("a", {
                                             href: "#",
                                             className: f,
@@ -2167,7 +2164,7 @@
                         reverse: !0,
                         children: (0, a.jsx)("h1", {
                             className: e,
-                            children: "Heim DAO"
+                            children: "BoxMints"
                         })
                     }), (0, a.jsx)(U, {}), (0, a.jsx)("div", {
                         className: dt().community__yar,
@@ -2216,7 +2213,7 @@
                                 width: "860",
                                 height: "734",
                                 src: "/_next/static/media/bottom.svg",
-                                alt: "Heim DAO"
+                                alt: "BoxMints"
                             }), (0, a.jsx)(ht, {})]
                         })
                     })]
@@ -2434,8 +2431,8 @@
                     width: 354,
                     height: 149,
                     heading: "Decisions",
-                    desc: "The conceptualisation of the first set of NorseMen Ideas.",
-                    color: "#DC41A0",
+                    desc: "The conceptualisation of the first set of BoxMints’ Ideas.",
+                    color: "#B0692B",
                     icon: {
                         src: "/_next/static/media/flask.d18ffc0a.svg",
                         height: 40,
@@ -2457,7 +2454,7 @@
                     width: 354,
                     height: 145,
                     heading: "Governance",
-                    desc: "The creation of the HeimDAO will be completed and the Olympians rules will be formulate via the DAO concensus",
+                    desc: "The creation of a DAO will be completed and Custodians rules will be formulate via a DAO concensus.",
                     color: "#00B669",
                     icon: {
                         src: "/_next/static/media/destination.f0437548.svg",
@@ -2479,8 +2476,8 @@
                     tableHeight: 127,
                     width: 354,
                     height: 146,
-                    heading: "Presale",
-                    desc: "The HeimDall NFT will be keepers DNA strand. This god-like NFT will be stakable and will also access to the NorseMen ideas and the ,HeimDAO and the HeimFund community. Minting Coming to Ethereum",
+                    heading: "Mints",
+                    desc: "The BoxHeadz NFT will be citizens of the BOX DNA strand. This box - head - like NFT will be stakable and will also be a key to access utilities and the DAO. Minting Soon.",
                     color: "#ECDB0C",
                     icon: {
                         src: "/_next/static/media/gorilla.d36b9e00.svg",
@@ -2502,8 +2499,8 @@
                     tableHeight: 124,
                     width: 354,
                     height: 142,
-                    heading: "Staking",
-                    desc: "The HeimDAO will integrate stake-to-earn and stake-to-access via partnership with staking portals. The $Heim Token and HeimDall NFT will support staking to earn and access rewards.",
+                    heading: "Tools",
+                    desc: "The first generation array of tools in the BoxMints will help creators to build communities, drive engagement and incentivize their collectors and communities.",
                     color: "#00E6DC",
                     icon: {
                         src: "/_next/static/media/block-scheme.44d463a8.svg",
@@ -2526,7 +2523,7 @@
                     width: 351,
                     height: 141,
                     heading: "Tokenomics",
-                    desc: "The $Heim Token will be released and it will exist as the governance and community token of the HeimDAO. It will come a fool-proof-token policy.",
+                    desc: "The $HEADZ Token will be released and it will exist as the governance and community token of the BoxMints.",
                     color: "#7C5DFA",
                     icon: {
                         src: "/_next/static/media/cubes.8a6dbfd1.svg",
@@ -2548,9 +2545,9 @@
                     tableHeight: 123,
                     width: 352,
                     height: 139,
-                    heading: "Hub",
-                    desc: "The idea hub will be incorporated into the HeimDAO to allow members access creators - dev - work related community setups, funds and idea generation.",
-                    color: "#DC41A0",
+                    heading: "Ideas",
+                    desc: "The DAO Idea pool will build and it will allow and facilitate more useful and sophisticated utilities to be built. Our DAO will act as a LaunchPad on Near.",
+                    color: "#B0692B",
                     icon: {
                         src: "/_next/static/media/infographic.d1bbd1b7.svg",
                         height: 40,
@@ -2572,7 +2569,7 @@
                     width: 293,
                     height: 80,
                     heading: "Revolution",
-                    desc: "The HeimFund will serve as the Norse Bank and also oversee the core HeimDAO Idea Box. It will generate and facilitate funding for KYC-ed projects development and their contribution to web3 growth",
+                    desc: "The Future is endless and the team at BoxLabz hopes to adequately secure our place web3 revolution. We will facilitate and pioneer the Near experience.",
                     color: "#ECDB0C",
                     icon: {
                         src: "/_next/static/media/worldwide.49dd1050.svg",
@@ -2716,7 +2713,7 @@
                             children: [(0, a.jsx)("span", {
                                 className: "text-cherry",
                                 children: "road map"
-                            }), " for the Heim Dao"]
+                            }), " for BoxMints"]
                         }), (0, a.jsx)("div", {
                             className: jt().roadmap__wrap,
                             ref: f,
@@ -2772,10 +2769,10 @@
                 return (0, a.jsxs)(a.Fragment, {
                     children: [(0, a.jsxs)(i.default, {
                         children: [(0, a.jsx)("title", {
-                            children: "Heim DAO"
+                            children: "BoxMints"
                         }), (0, a.jsx)("meta", {
                             name: "description",
-                            content: "Heim DAO"
+                            content: "BoxMints"
                         }), (0, a.jsx)("meta", {
                             charSet: "UTF-8"
                         }), (0, a.jsx)("meta", {
