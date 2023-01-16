@@ -1333,7 +1333,7 @@
                             })
                         }), (0, a.jsx)("div", {
                             className: ve().hero__desc,
-                            children: "The BoxLabz will be releasing the BoxMints NFT on an undisclosed date. $HEADS token which will be the community token of the BoxMints. Details coming soon."
+                            children: "The BoxLabz will be releasing the BoxMints NFT on an undisclosed date. $HEADZ token which will be the community token of the BoxLabz."
                         })]
                     })
                 })
@@ -1640,9 +1640,9 @@
                         }), (0, a.jsxs)("div", {
                             className: "entry-content text-center",
                             children: [(0, a.jsxs)("p", {
-                                children: ["HeimDAO all started as a norse meme and now we envision to be a borderless blockchain government that delivers easy-to-create and easy-to-use web3 solutions. We hope to create useful community based web3 solutions that helps increase the value image of our government economy. ", ""]
+                                children: ["The BoxMints envision a web3 bundled tools that helps drives community and engagement. The BoxLabz solutions will help to solves the problems of the everyday web3 hopheads. ", ""]
                             }), (0, a.jsxs)("p", {
-                                children: ["Heim as the Keeper of the Asgard hopes to oversee the scrutinization and passing of Northmen ideas into the Norse Government t based on the Olympians rules; with the HeimDAO and HeimFund; we shall generate and fund solutions that solves the problems of the everyday web3 Northmen hopheads. .", " "]
+                                children: ["The first generation array of tools of the BoxMint will help creators to build communities, drive engagement and incentivize their collectors and communities. The ThinkJobs will be integrated into the BoxMints tools and transform HR and productivity on the Blockchain skill market.", " "]
                             })]
                         })]
                     }), (0, a.jsx)(He, {})]
@@ -1735,8 +1735,8 @@
                     heading: "DAO Membership?",
                     body: "Members will only be indoctrinated into the DAO when they verify that they hold a BoxHeadz NFT."
                 }, {
-                    heading: "BoxMints Setup?",
-                    body: "The BoxMints will be open for public use. Users will be however able to setup profiles and access but free and premium services and options."
+                    heading: "BoxMints and ThinkJobs Setup?",
+                    body: "The BoxMints and ThinkJobswill be open for public use. Users will be however able to setup profiles and access but free and premium services and options."
                 }, {
                     heading: "How To Use Near?",
                     body: "To understand how to buy and trade NFTs and Tokens on NEAR ecosystem click here."
@@ -1942,7 +1942,7 @@
                                     children: (0, a.jsxs)("div", {
                                         children: [(0, a.jsx)("div", {
                                             className: "text-small text-center",
-                                            children: "\xa9 2022 BoxMints."
+                                            children: "\xa9 2023 BoxMints."
                                         }), (0, a.jsx)("a", {
                                             href: "#",
                                             className: f,
@@ -2523,7 +2523,7 @@
                     width: 351,
                     height: 141,
                     heading: "Tokenomics",
-                    desc: "The $HEADZ Token will be released and it will exist as the governance and community token of the BoxMints.",
+                    desc: "The $HEADZ Token will be released and it will exist as the governance and community token of the BoxLabz.",
                     color: "#7C5DFA",
                     icon: {
                         src: "/_next/static/media/cubes.8a6dbfd1.svg",
@@ -2546,7 +2546,7 @@
                     width: 352,
                     height: 139,
                     heading: "Ideas",
-                    desc: "The DAO Idea pool will build and it will allow and facilitate more useful and sophisticated utilities to be built. Our DAO will act as a LaunchPad on Near.",
+                    desc: "The DAO Idea hub will build and it will allow and facilitate more useful and sophisticated utilities to be built on Near Chain.",
                     color: "#B0692B",
                     icon: {
                         src: "/_next/static/media/infographic.d1bbd1b7.svg",
