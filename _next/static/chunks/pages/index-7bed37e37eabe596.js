@@ -186,7 +186,7 @@
                     link: "https://twitter.com/boxmints",
                     alt: "Twitter"
                 }],
-                x = "https://discord.gg/Ar2NPdkPC8";
+                x = "https://discord.com/invite/ZZzW6JEMZ2";
 
             function b(e) {
                 var t = e.list,
@@ -1461,7 +1461,7 @@
                                 children: (0, a.jsx)(w.default, {
                                     width: "870",
                                     height: "980",
-                                    src: "/_next/static/media/bottom.svg",
+                                    src: "/_next/static/media/.svg",
                                     alt: "This is $BoxMints"
                                 })
                             }), "connect" === e && (0, a.jsx)(ye, {}), "buy" === e && (0, a.jsx)(je, {}), "confirm" === e && (0, a.jsx)(Ce, {}), "soon" === e && (0, a.jsx)(Ne, {
@@ -1739,7 +1739,7 @@
                     body: "The BoxMints and ThinkJobswill be open for public use. Users will be however able to setup profiles and access but free and premium services and options."
                 }, {
                     heading: "How To Use Near?",
-                    body: "To understand how to buy and trade NFTs and Tokens on NEAR ecosystem click here."
+                    body: "To understand how to buy and trade NFTs and Tokens on NEAR ecosystem check the Near Onboarding channel on the BoxMints discord server."
                 }, {
                     heading: "Collaboration and Partnerships?",
                     body: "Collaboration and Partnership requests can be made via Twitter DM or by opening a Collab Ticket on our Discord (Not a guarantee). Collaborations and Partnerships will only be an official team member gives an authorization."
@@ -2117,7 +2117,7 @@
                 })
             }
             var pt = {
-                    src: "/_next/static/media/banana.eb458833.svg",
+                    src: "",
                     height: 160,
                     width: 160,
                     blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAWlBMVEVMaXH8lpbb0NCrqqpQRESFf3/e5+dCi4u4T0+bn59zoKDIamq+mJiptLTS3d2wtbWFj4+zurqyeHjKQ0PCt7fKXl7JQED0v7//4eH////ewMC8o6OsiYnIenq6TmXsAAAAFXRSTlMA/f2QFC3pCv0/JfFRbNMVW8G0/F0QvT5HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAQklEQVQImRXKRxaAIBDA0FCGIig2sN//mj42+ZsAYKUXb5yz3fU+jxEwNSk1eYbUgr60EL8tPItArC28c3/3nGOBH0NgAkdMFkwdAAAAAElFTkSuQmCC"
@@ -2172,7 +2172,7 @@
                             width: "560",
                             height: "190",
                             src: wt,
-                            alt: "You are resady?"
+                            alt: "Are you ready?"
                         })
                     }), (0, a.jsx)("div", {
                         className: dt().community__img_cards,

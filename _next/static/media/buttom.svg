@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="438.33005"
-   height="534.23444"
-   viewBox="0 0 115.97483 141.34953"
+   width="209.50876"
+   height="214.74809"
+   viewBox="0 0 55.432527 56.818767"
    version="1.1"
    id="svg30418"
    inkscape:export-filename="C:\wamp64\www\HeimDAO\img\preloadenew.png"
@@ -46,20 +46,9 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-44.820278,-17.282934)"><text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="117.41134"
-       y="126.50637"
-       id="text32226"
-       transform="rotate(-9.1368861)"><tspan
-         sodipodi:role="line"
-         id="tspan32224"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gilroy;-inkscape-font-specification:Gilroy;fill:#ffffff;stroke-width:0.264583"
-         x="117.41134"
-         y="126.50637">$Heim</tspan></text><image
-       width="115.97484"
-       height="141.34953"
+     transform="translate(-58.527969,-57.263705)"><image
+       width="55.432526"
+       height="56.818771"
        preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQEAAAFHCAYAAACh7fmMAAAAAXNSR0IArs4c6QAAAFBlWElmTU0A
 KgAAAAgAAgESAAMAAAABAAEAAIdpAAQAAAABAAAAJgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAAB
@@ -1118,8 +1107,8 @@ HLAcsBywHLAcsBywHLAcsBywHLAcsBywHLAcsBywHLAcsBywHLAcsBywHLAcsBywHLAcuFY58P+f
 grVQY4LcYgAAAABJRU5ErkJggg==
 "
        id="image2463"
-       x="44.820278"
-       y="17.282934"
+       x="58.527969"
+       y="57.263706"
        inkscape:export-filename="buttom.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" /></g></svg>
