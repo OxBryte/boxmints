@@ -1461,7 +1461,7 @@
                                 children: (0, a.jsx)(w.default, {
                                     width: "870",
                                     height: "980",
-                                    src: "/_next/static/media/.svg",
+                                    src: "/_next/static/media/bottom.svg",
                                     alt: "This is $BoxMints"
                                 })
                             }), "connect" === e && (0, a.jsx)(ye, {}), "buy" === e && (0, a.jsx)(je, {}), "confirm" === e && (0, a.jsx)(Ce, {}), "soon" === e && (0, a.jsx)(Ne, {
@@ -2122,12 +2122,7 @@
                     width: 160,
                     blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAWlBMVEVMaXH8lpbb0NCrqqpQRESFf3/e5+dCi4u4T0+bn59zoKDIamq+mJiptLTS3d2wtbWFj4+zurqyeHjKQ0PCt7fKXl7JQED0v7//4eH////ewMC8o6OsiYnIenq6TmXsAAAAFXRSTlMA/f2QFC3pCv0/JfFRbNMVW8G0/F0QvT5HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAQklEQVQImRXKRxaAIBDA0FCGIig2sN//mj42+ZsAYKUXb5yz3fU+jxEwNSk1eYbUgr60EL8tPItArC28c3/3nGOBH0NgAkdMFkwdAAAAAElFTkSuQmCC"
                 },
-                At = {
-                    src: "/_next/static/media/banana.eb458833.svg",
-                    height: 160,
-                    width: 160,
-                    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAP1BMVEVMaXG0ih3BpwrI1ACffi2FbTNzXSRzay6fiCRPNByjgiekikOlij/KsmOxlBOjjkqVfju3mk7TsxPas1mrkD7PhVsaAAAAEnRSTlMA1vYfoJBqBlEP9K9pxLDfRYGOQzMoAAAACXBIWXMAAAsTAAALEwEAmpwYAAAANUlEQVQImWNggAN2QQ4oi1eYmwdEC/CLcLGwMTBwsnIwMTKwMzCwMzALsUDUcPBxIrQyMAAAJpUA/vqDypcAAAAASUVORK5CYII="
-                },
+                
                 gt = {
                     src: "/_next/static/media/glases06ae.4caf2f1e.png",
                     height: 160,
@@ -2197,14 +2192,6 @@
                             height: "160",
                             src: "/_next/static/media/glasses.svg",
                             alt: "glasses"
-                        })
-                    }), (0, a.jsx)("div", {
-                        className: dt().community__img_banana,
-                        children: (0, a.jsx)(w.default, {
-                            width: "160",
-                            height: "160",
-                            src: "/_next/static/media/banana.eb458833.svg",
-                            alt: "banana"
                         })
                     }), (0, a.jsx)(h.Z, {
                         children: (0, a.jsxs)("div", {
