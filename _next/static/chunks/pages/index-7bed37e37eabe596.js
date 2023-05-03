@@ -1738,9 +1738,6 @@
                     heading: "BoxMints and ThinkJobs Setup?",
                     body: "The BoxMints and ThinkJobswill be open for public use. Users will be however able to setup profiles and access but free and premium services and options."
                 }, {
-                    heading: "How To Use Near?",
-                    body: "To understand how to buy and trade NFTs and Tokens on NEAR ecosystem check the Near Onboarding channel on the BoxMints discord server."
-                }, {
                     heading: "Collaboration and Partnerships?",
                     body: "Collaboration and Partnership requests can be made via Twitter DM or by opening a Collab Ticket on our Discord (Not a guarantee). Collaborations and Partnerships will only be an official team member gives an authorization."
                 }],
